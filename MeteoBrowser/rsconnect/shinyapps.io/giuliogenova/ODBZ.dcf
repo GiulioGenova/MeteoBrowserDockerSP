@@ -1,0 +1,12 @@
+name: ODBZ
+title: ODBZ
+username:
+account: giuliogenova
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 343432
+bundleId: 1720758
+url: https://giuliogenova.shinyapps.io/ODBZ/
+when: 1543238744.32541
+asMultiple: FALSE
+asStatic: FALSE
